@@ -25,4 +25,4 @@ jobs:
         run: |
           pip install ml-lib-ejemplo \
             --index-url http://${NEXUS_USERNAME}:${NEXUS_PASSWORD}@${NEXUS_URL} \
-            --trusted-host ec2-35-153-160-39.compute-1.amazonaws.com
+            --trusted-host ec2-3-84-125-90.compute-1.amazonaws.com
